@@ -1,2 +1,2 @@
-# weblatetools
-Hacks for translations
+# weblatetools -- notes
+Hacks for translations, off-side notes
