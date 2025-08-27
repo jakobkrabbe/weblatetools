@@ -1,6 +1,6 @@
 
 
-1. Lista alla moduler som saknar .po filen
+1. Lista alla moduler som saknar .po filen, kolla_svpo.inhouse.sh
 2. skapa listan med kommandot... de moduler som fungerar skapar en pofil med ett visst innehåll, de som inte fungerar en bland opfil.
 
 
