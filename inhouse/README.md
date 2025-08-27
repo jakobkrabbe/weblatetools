@@ -1,0 +1,13 @@
+
+
+1. Lista alla moduler som saknar .po filen
+2. skapa listan med kommandot... de moduler som fungerar skapar en pofil med ett visst innehåll, de som inte fungerar en bland opfil.
+
+
+checkmodule -d tmp_database -m survey_likert_scale,survey_mail,survey_manual_review,survey_report,survey_template,survey_website -e -l critical
+
+
+3. ta bort tomma med skript, remove empty po
+4. redigera med PoEdit,
+5. Lägg in po-filerna på sätt modul
+6. ladda till git med git + rätt T/1234 -kommando för uppgiften. 
